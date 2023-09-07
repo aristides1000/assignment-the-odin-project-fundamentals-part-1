@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://aristides1000.github.io/assignment-the-odin-project-fundamentals-part-1/)
 
 
 ## Getting Started
@@ -53,7 +53,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/aristides1000/assignment-the-odin-project-fundamentals-part-1/issues).
 
 ## Show your support
 
